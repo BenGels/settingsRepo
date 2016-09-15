@@ -1,0 +1,5 @@
+<application>
+  <component name="HybrisApplicationSettings">
+    <option name="JRebelOutputPath" value="true" />
+  </component>
+</application>
