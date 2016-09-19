@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../ext-jab/jabstorefront - [jabstorefront]'" />
-    <option name="defaultScopeName" value="Directory '.../ext-jab/jabstorefront - [jabstorefront]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../ext-jab/jabstorefront - [jabstorefront]'" />
+    <option name="customScope" value="Directory '.../ext-jab/jabcore - [jabcore]'" />
+    <option name="defaultScopeName" value="Directory '.../ext-jab/jabcore - [jabcore]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../ext-jab/jabcore - [jabcore]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
