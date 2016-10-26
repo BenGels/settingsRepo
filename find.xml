@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../ext-jab/jabcore - [jabcore]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.jsp,*.tag" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.as</mask>
@@ -20,6 +20,7 @@
       <mask>*</mask>
       <mask>*items.xml</mask>
       <mask>*.java</mask>
+      <mask>*.jsp,*.tag</mask>
     </recentFileMasks>
   </component>
 </application>
