@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../ext-jab/jabcore - [jabcore]'" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.as</mask>
@@ -23,6 +24,7 @@
       <mask>*.xml</mask>
       <mask>*.*</mask>
       <mask>*.properties</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
